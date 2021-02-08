@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testsuite name="com.jojodu.book.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-08T13:11:07" hostname="Taiminui-MacBookPro.local" time="0.048">
+  <properties/>
+  <testcase name="롬복_기능_테스트" classname="com.jojodu.book.springboot.web.dto.HelloResponseDtoTest" time="0.048"/>
+=======
+<testsuite name="com.jojodu.book.springBoot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-07T09:59:54" hostname="aws-test" time="0.099">
+  <properties/>
+  <testcase name="롬복_기능_테스트" classname="com.jojodu.book.springBoot.web.dto.HelloResponseDtoTest" time="0.099"/>
+>>>>>>> origin/master
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
